@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="font_certs">
+        <item>@array/font_certs_dev</item>
+    </array>
+    <string-array name="font_certs_dev">
+        <item>
+            MIICxTCCAa2gAwIBAgIEOPUa3TANBgkqhkiG9w0BAQsFADASMRAwDgYDVQQDEwdBbmRyb2lkMCAXDTIwMDkyMDA2MzkzMloYDzIwNTAwOTEzMDYzOTMyWjASMRAwDgYDVQQDEwdBbmRyb2lkMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqSz9hrJi3y0RB2ZFIyl5/R+2wEhmK1bV1jwDmGO/D3MEj+sr1JTUmz4MJbmqkOhGH0AmCkrbLl6hFrSVv8OTOOMGyY5tbL2ICrxQpeDDI4yGcWZSN2OI7jk/2xvWVoIiLLcJyVF348O3P0RzVwVMN51L1GFn5yOeOPw0OaLwhtAeH+/izjBrfEgd8WjRaIo2UVgKpdKa4y0DHCb6bCn1G2oskkCYW/9NfeC5sewEOIRk6XwagidDdAe6UR9bEeGV8i9r3F99+tMmT1H7lgwKoxNXEvrab0XUZuLfdlAd7pc2M7vvkq4f3BSZlC0yPmd/hCs8IDS8peJRNcS7l9jr/QIDAQABoyEwHzAdBgNVHQ4EFgQU+LbMvmjvsfz5rIGeV8AFHjB6F6kwDQYJKoZIhvcNAQELBQADggEBAC9ZsD8KfYyNVulM44fPmEWvvruoibfM9CLlAbXwHGr/JNcsB6wUKlV4KMizHUlcF3/QqjxZL55km7Qbe2DAERt5DvzGRtln9BDF3JTflTIkii7OLoa6gqVViNSHqNdTh/677w6iFFVL2fCfiZDWBbbt7cVf+Hcc8rDOr8UmDF8bfncoGKzyAEkISBdJMQbjADjjscJ5hFWRQUpkL+UIDFu7ES6Qau9QJ8MUm1sdzTxlBb8XSvrXVUcTCZRmCg/TcU4fpnPWo8cThM1IcxvZ1vCB+VxJ/dIhoI1ksi+IYmFTbH9MU8BUxW0xa4vQp8Tmyni1nLkciXPh2z9r6bGm6LQ=
+        </item>
+    </string-array>
+</resources>
