@@ -43,15 +43,12 @@ class FontsProvider : ContentProvider() {
         val cursor = MatrixCursor(
             arrayOf(
                 FontsContractCompat.Columns._ID,
-                FontsContractCompat.Columns.FILE_ID,
-                FontsContractCompat.Columns.TTC_INDEX,
-                FontsContractCompat.Columns.VARIATION_SETTINGS,
                 FontsContractCompat.Columns.WEIGHT,
                 FontsContractCompat.Columns.ITALIC,
                 FontsContractCompat.Columns.RESULT_CODE
             )
         )
-        cursor.addRow(arrayOf(1, 1, 0, 1, 400, 0, 0))
+        cursor.addRow(arrayOf(1, 400, 0, 0))
 
         return cursor
     }
